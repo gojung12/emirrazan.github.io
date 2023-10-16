@@ -1,0 +1,40 @@
+ "Nama Panjang :">Nama Panjang   : </label>
+                <input type="text"> <br>
+                <label for="">Tanggal Lahir : <  <center>
+
+            <form action="" method="post">
+                <label>Nama : </label> 
+                <input type="text"> <br>
+                <label for="Nama Panggilan   : " >Nama Panggilan   : </label>
+                <input type="text"> <br>
+                <label for=/label>
+                <input type="date" name="" id=""> <br>
+                <label for="">Umur : </label>
+                <input type="number"> <br>
+                <label for="gender">Jenis Kelamin : </label>
+                <input type="radio" name="gender">L
+                <input type="radio" name="gender">P
+                <br>
+                <label for="mamauuu">Nama Ibu    : </label>
+                <textarea name="" id="" cols="30" rows="3">akldjasoidj</textarea> <br>
+                <label for="buapak">Nama Ayah    : </label>
+                <textarea name="" id="" cols="30" rows="3">akldjasoidj</textarea> <br>
+                <label for="Alamat Rumah:">Alamat    : </label>
+                <textarea name="" id="" cols="30" rows="3">akldjasoidj</textarea> <br>
+        <label for="Alamat Sekolah Asal">Alamat Sekolah Asal  : </label>
+        <textarea name="" id="" cols="30" rows="3">akldjasoidj</textarea> <br>
+        
+        <br>
+        <label for="kka">Fotocopy KK : </label>
+        <input type="file" name="" id="">
+        <br>
+        <label for="">Agama : </label>
+        <select name="" id=""> <br>
+            <option value="Hindu">Hindu</option> <br>
+            <option value="Budha">Budha</option> <br>
+            <option value="Katholik">Katholik</option> <br>
+            <option value="Kristen">Kristen Protestan</option> <br>
+            <option value="Kong Hu Chu">Kong Hu Chu</option> <br>
+            <option value="Islam">Islam</option><br>
+        </form>
+    </center>
